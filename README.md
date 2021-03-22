@@ -1,0 +1,1 @@
+# Local-Minimum-edge-Binary-Pattern-C-Code
